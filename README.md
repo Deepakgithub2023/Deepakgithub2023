@@ -1,5 +1,9 @@
 # 💫 About Me:
-B.Tech (CSE '25) Graduate | RHCSA & RHCE Certified | DevOps & Cloud Enthusiast<br><br>Passionate Computer Science graduate with RHCSA and RHCE certifications, along with institute-level certifications in Linux, AWS, Docker, Terraform, and Kubernetes.<br><br>Experienced in system administration, cloud infrastructure, containerization, and infrastructure automation, with hands-on exposure to modern DevOps practices.<br><br>Strong interest in DevOps and cloud engineering, focused on building scalable, secure, and efficient infrastructure using automation, CI/CD, and cloud-native technologies.<br><br>Committed to continuous learning, problem-solving, and implementing reliable IT solutions in real-world environments.
+B.Tech (CSE '25) Graduate | RHCSA & RHCE Certified | DevOps & Cloud Engineer
+DevOps & Infrastructure Engineer with 1.2 years of hands-on experience managing production-grade Linux infrastructure for core banking systems, backed by RHCSA and RHCE certifications.
+Experienced in automating infrastructure with Ansible & Terraform, building CI/CD pipelines with Jenkins & GitLab, and managing high-availability Percona MySQL clusters — having reduced deployment time by 40% and maintained 99.99% database uptime in production.
+Skilled in system administration, cloud infrastructure (AWS), containerization (Docker, Kubernetes), and infrastructure automation, with real-world exposure to DC/DR operations and proactive monitoring.
+Committed to continuous learning, reliability engineering, and building scalable, secure infrastructure for mission-critical environments.
 
 
 ## 🌐 Socials:
